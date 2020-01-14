@@ -10,12 +10,19 @@ url= https://github.com/Little-Ann/MLModelTraining.git
 ,pandas,bs4 ,jieba. if not , please install them first.
 
 pip3 install numpy
+
 pip3 install nltk
+
 pip3 install sklearn
+
 pip3 install operator
+
 pip3 install requests
+
 pip3 install pandas
+
 pip3 install bs4
+
 pip3 install jieba
 
 4. input  python3 part2code_1826583.py to run the code 
