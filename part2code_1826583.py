@@ -164,7 +164,7 @@ def train_svm_classifier(training_set, vocabulary): # Function for training our 
 
 # TF(term frequency)
 vocabulary=get_vocabulary(train_full, 1000)  # We use the get_vocabulary function to retrieve the vocabulary
-print("vocabulary:", vocabulary)
+# print("vocabulary:", vocabulary)
 
 
 # In[ ]:
